@@ -1,0 +1,26 @@
+
+#title{
+  text-align:center;
+  color:white;
+  font-weight: lighter;
+}
+#div1{
+  background-color:rgb(7, 6, 6);
+  border: solid white 1px;
+  box-shadow: 5px 10px 8px #888888;
+}
+#game{
+  display:block;
+}
+iframe{
+  margin:auto;
+  display:block;
+}
+img{
+  margin:auto;
+  display:block;
+}
+#balance{
+  color:white;
+  margin-left: 30px;
+}
